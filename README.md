@@ -1,6 +1,6 @@
 # tugas1_layout
 
-A new Flutter project.
+Tugas membuat tampilan login page
 
 ## Getting Started
 
